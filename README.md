@@ -4,4 +4,4 @@
 ## Install pip and Flask 
 Once flask is installed run: pip install requirements.txt
 
-To start the server run pip app.py and check 127.0.0.1:5000 to check the results
+To start the server run "python app.py" and check 127.0.0.1:5000 to check the results
